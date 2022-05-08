@@ -1,4 +1,5 @@
 import React from 'react';
+import './themes/Style.scss';
 
 const App = () => {
     return (
