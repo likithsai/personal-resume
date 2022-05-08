@@ -1,7 +1,6 @@
 import React from 'react';
-import './themes/Style.scss';
-import 'jquery/dist/jquery.min.js'
-import 'bootstrap/dist/js/bootstrap.min.js'
+import './css/Style.scss';
+import './js/Script.js';
 
 const App = () => {
     return (
